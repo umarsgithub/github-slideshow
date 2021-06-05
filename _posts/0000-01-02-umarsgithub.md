@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+& thats the bottom line cuz stone cold said so
 Use the left arrow to go back!
